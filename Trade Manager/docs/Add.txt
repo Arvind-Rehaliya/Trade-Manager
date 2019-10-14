@@ -1,0 +1,4 @@
+
+Add data Permission
+
+ Any user can Add data to any table even a guest also if he had 'Add data' permission. see 'Guest user' documentation for full details.

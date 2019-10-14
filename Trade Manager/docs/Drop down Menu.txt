@@ -1,0 +1,12 @@
+
+Drop down Menu
+
+ For quickly access some useful features of this application
+
+ 1. Backup
+ 2. Tables - to see selected table
+ 3. Check for Updates
+ 4. Support
+ 5. notepad
+ 6. matrix
+ 7. exit

@@ -1,0 +1,19 @@
+
+Read Permission
+
+ In this permission every table's data is seen or can be read by users.
+ If this permission is not given to any user then that user cannot see existing data of tables.
+
+ Users having no any permission resides in 'Guest users list' with no any permission and all the permissions down below are unchecked.
+ If he has permission to 'Add data', he can add data to every table. Without seeing the existing data.
+ But, If he want to see existing table data he simply being a 'Guest user' as they have permission to Read and Add data (if allowed) permission only. Now this is a problem.
+
+
+ Thus, to prevent this type of users to see existing data on table. Just set Password on this software. By --
+      -->  Login with Root user's or Administrator's account
+      -->  Go to control Panel, then General Settings 
+      -->  After 'Enable' 'Security' set password.
+
+
+ Now, every time user run this software he have to give correct Password to enter.
+ 

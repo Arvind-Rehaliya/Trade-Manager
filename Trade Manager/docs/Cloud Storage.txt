@@ -1,0 +1,12 @@
+
+Cloud Storage
+
+ To store table's data on Cloud server to easy access to table any time from any where this feature will be introduced.
+
+ If android version + cloud Storage is released then, tables data can be seen anytime and anywhere.
+
+ Also we can see which user is currently working on Database, his activities, modifications done by him and lots of.
+
+ Many new features like this will be release soon.
+
+ Till then wait :)

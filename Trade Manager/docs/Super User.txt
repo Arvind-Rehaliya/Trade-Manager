@@ -1,0 +1,29 @@
+
+Super User
+
+ 1. Super user have permissions less than any Administrator's permission and more than any guest user.
+    Hence, Super user's permissions can be :
+      --> Read, add, delete or
+      --> Read, add, modify only.
+
+
+ 2. They cannot access control panel, to allow them access control panel --
+      -->  Login with Root user's or Administrator's account
+      -->  Go to control Panel, then General Settings 
+      --> 'Enable' Access Control Panel setting
+    Then, Super users also access control panel.
+
+
+ 3. Super user can add/remove user if they are allowed to access control panel.
+
+ 4. Super user's permission can be up/down graded to make this user an Administrator/Guest user.
+
+ If Administrator/Root User allows any user to give them few permissions not all, Then this type of users are created.
+
+ By Default after 'creating a new Account', New user is Super user with permission of Read and Add data only. To make this Guest/Administrator user --
+      -->  Login with Root user's or Administrator's account
+      -->  Go to control Panel, then 'Set Permissions'
+      -->  Select newly created user by his username
+      -->  At bottom of the screen, Give him full or few permissions by clicking on permission names
+      -->  Then, click on 'Reset Permissions'.
+      -->  Now this user is placed in list according to his provided permission.

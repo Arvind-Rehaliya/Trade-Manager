@@ -1,0 +1,12 @@
+
+Root User
+
+ 1. Root user is the first user which have the full permissions to modify all tables and can access the
+    control panel as well.
+
+ 2. Root user can add/remove user.
+
+ 3. Root user cannot be removed at all, This is permanent user.
+
+ 4. Root user is not list in any user list, to reduce the risk of permission down by other users who can 
+   access control panel.

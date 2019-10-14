@@ -1,0 +1,19 @@
+
+Sort table's data
+
+ Table's data can be sort by clicking on 'Sort By' which is on top-right corner by --
+   
+ 1. Column's name - 
+       --> Select order ascending or descending
+       --> Select 'Name' then Column list of Selected table will appear
+       --> After Selecting Column's name table's row will display according to data of this 'Selected Column' in Selected Order.
+
+    Table's data will display according to the sequence of alphabets, decimal/integer values, date.
+
+ 2. Last update -
+       --> Select order ascending or descending
+       --> Select 'Last updated' then Column list of Selected table will appear
+       --> After Selecting Column's name table will display according to last updated row in Selected Order.
+
+ 3. Default -
+       Table's row will display according to their S.No in ascending order.

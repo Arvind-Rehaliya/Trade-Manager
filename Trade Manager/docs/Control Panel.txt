@@ -1,0 +1,57 @@
+
+Control Panel
+
+ Root user, Administrator, Super user (if they are allowed) can access control panel.
+
+ From Control Panel user can modify this software's configuration and restructures the existing tables.
+ 
+ Control panel is get only by successfully login.
+
+ 1. From here Table's button name can be change which is lie on the main frame to access table, By --
+     -->  Login with Root user's or Administrator's account
+     -->  Go to control Panel, then 'Modify Table'.
+     -->  Select existing table's name to rename and give a new name
+     -->  Click on change.
+     Now, requested button's name is changed.
+
+
+ 2. Restructure table, user can --
+     A)  Rename table by --
+            -->  Login with Root user's or Administrator's account
+            -->  Go to control Panel, then 'Refactor Columns'.
+            -->  Select 'Rename existing Column'
+            -->  Select table of which column is going to be renamed from top-right and down below you will see all columns related to that selected table
+            -->  Select column from 'Rename From' and give a new name to the selected column.
+            -->  Click on 'Rename Column'.
+           Now, Column's list is refreshed which is just down the list of tables and that column's name is changed.
+
+     B)  Add Columns by --
+            -->  Login with Root user's or Administrator's account
+            -->  Go to control Panel, then 'Refactor Columns'.
+            -->  Select 'Add Columns'
+            -->  Select table of which column is going to be renamed from top-right and down below you will see all columns related to that selected table
+            -->  Type Column name remember there should not be any [space] in new column's name use ( _ ) underscore instead.
+            -->  Select suitable datatype.
+            -->  Select 'After column' to add new column just after the specified column. By default it adds Column to last position. 
+            -->  Click on 'Add Column' button.
+            Now, Column's list is refreshed which is just down the list of tables and a new column's name will display.
+
+     C)  Remove Column by --
+            -->  Login with Root user's or Administrator's account
+            -->  Go to control Panel, then 'Refactor Columns'.
+            -->  Select 'Remove Column'
+            -->  Select table of which column is going to be renamed from top-right and down below you will see all columns related to that selected table
+            -->  Select Column to remove, then
+            -->  Click on 'Remove Column'.
+            Now, Column's list is refreshed which is just down the list of tables and this column's name is removed.
+
+  
+ 3. User can see other user's details by --
+     -->  Go to control Panel, then 'User Details'
+     -->  Select User's name
+
+ 4. Permissions are also set here of users.
+
+ 5. To modify this software configuration, Go to 'General Settings' and modify according to your needs.
+
+

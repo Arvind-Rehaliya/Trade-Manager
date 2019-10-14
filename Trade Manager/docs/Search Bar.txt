@@ -1,0 +1,16 @@
+
+Search Bar
+
+ To quickly reach to required data instead of read every rows of table this feature is beneficial.
+
+ Whatever user want to search from currently displaying table and row containing that data will be sorted at top.
+
+ There are some other usage of this Search Bar type :
+  
+ 1) :create  -> To Create New User
+ 2) :forget  -> To display forget screen if user forget his password
+ 3) :update  -> To update this application
+ 4) :exit    -> To Exit
+ 5) :notepad -> To open Notepad to open files Content
+ 6) :matrix  -> To see Matrix Effect on Screen
+ 7) :backup  -> To take Backup now

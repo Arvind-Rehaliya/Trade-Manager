@@ -1,0 +1,34 @@
+
+
+Trade Manager is an open source project initiated by @Arvind Rehaliya Developer of this software.
+Anyone can make changes according to his/their needs to use their software in his/their business related work.
+
+
+
+Features :
+ 1.  Users can be categorized according to their previlleges.
+
+ 2.  In every tables data can be add, delete and modify only be authorized user securly.
+
+ 3.  To ensure data availability when data is lost backup of every table's data can be made.
+
+ 4.  Users can be created with their unique usernames and password as well as users can be removed.
+
+ 5.  To notified from how much time user running this software timer feature is introduced.
+
+ 6.  Every users can set their profile picture.
+
+ 7.  Guest user also add data By default: they can read only.
+
+ 8.  To prevent accidently close/delete of software/data. This feature can be helpful.
+
+ 9.  To stay Up-to-Data, get latest features, fixing existing bugs. User can also update this software.
+
+ 10. To prevent unauthorized user to access this software set password to it.
+ 
+ 11. Every time user have not be prompt to provide Database configuration to connect to same Database.
+ 
+ 12. To quickly search for required data, just type in search bar and search.
+ 
+ 13. To quickly access some main featues menu from drop down is helpful.
+

@@ -1,0 +1,16 @@
+
+Backup
+
+ Backup is created to ensure the data availability when data is lost or deleted permanently. Backup is generated every time user close this application automatically at 'Backup' folder in your installation folder or manually by --
+
+ Backup can be created by --
+   -->  Go to Control Panel after login, then General Settings
+   -->  Click on 'Create Backup now' button
+   then, data of all tables are saved in above specified path.
+
+   or
+
+ Directly from Drop down Menu
+   -->  Click on 'Go to'
+   -->  then, Backup
+   and successfully backup is created prompt you will see.

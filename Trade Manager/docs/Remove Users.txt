@@ -1,0 +1,11 @@
+
+Remove Users
+
+ Users can be removed permanently by --
+   --> go to 'Set Permissions' in 'Control Panel'
+   --> Click on user's name and uncheck all permissions down below
+   --> Prompt will open, Click on 'Yes' to remove this user permanently or 'No' to take all permissions but  
+       not remove this user and 
+       again for giving him full/few permission in future if needed.
+   --> Click on 'Reset Permissions' button.
+   Now, this user is permanently removed or this user has no permission.

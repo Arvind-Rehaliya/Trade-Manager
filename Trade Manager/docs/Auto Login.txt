@@ -1,0 +1,25 @@
+
+Auto Login
+
+ From the very useful feature, This application is depend on MySQL Database for table's data insertion and extraction.
+
+ This Database can also have many Databases, Users then to tell this application from which database you have to connect this feature is introduced. By default it takes --
+
+   USERNAME      - root
+   PASSWORD      -
+   INET ADDRESS  - localhost
+   PORT NUMBER   - 3306
+   DATABASE      - tradeDB
+
+ This application use this Database configuration by default.
+
+ If user have to make some changes in configuration then he can also do so by --
+   -->  Go to General Settings which is in Control Panel after login 
+   -->  Search for 'Auto Login' and
+   --> 'Disable' this feature
+
+ Now every time user run this application a dialog box will appear having above details
+   -->  Click on 'Custom' button and provide valid details
+   -->  Then click on 'OK' button
+
+ If any detail(s) is somehow wrong then you will see a EXCEPTIONS related dialog box to get rid from this situation always use default configuration.

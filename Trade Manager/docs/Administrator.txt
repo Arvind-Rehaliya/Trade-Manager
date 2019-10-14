@@ -1,0 +1,17 @@
+
+Administrator
+
+ 1. Administrator also have the full permissions to modify all tables and can access the control panel as well.
+
+ 2. Administrator can add/remove user.
+
+ 3. Administrator can be removed by Root user or by any existing Administrator.
+
+
+ Any user can be a Administrator by giving him full permissions, by control panel. And control panel can access by Root user, Administrator and Super User (if they allowed to access) only.
+
+ There should be least number of Administrators, as they also have full access they can modify whole tables structure and modify software configurations.
+
+ So, making any user a Administrator, Root user or existing Administrator should be careful.
+
+ Administrator's permission can be downgrade by users who can access control panel.

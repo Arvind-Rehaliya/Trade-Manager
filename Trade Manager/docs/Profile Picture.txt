@@ -1,0 +1,13 @@
+
+Profile Picture
+
+ Users can set their Profile Picture if they don't then default picture will used.
+
+ Image's dimensions should be 55x55px. If image is larger than 55x55px than small part of that image will be used.
+
+ If user has not set his profile picture yet, he will see 'Set profile picture' prompt every time (if this feature is Enabled) he logged in. From which he can set his profile picture.
+
+ To disable this feature --
+   --> Go to General Settings in Control panel
+   --> 'Disable' Profile Image option
+ then profile picture will not display and default image is set.

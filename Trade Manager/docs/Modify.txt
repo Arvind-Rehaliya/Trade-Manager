@@ -1,0 +1,10 @@
+
+Modify Permission
+
+ Root user and Administrator can modify data of table.
+ If any Super User have permission to 'Modify data', then he can also do so.
+ But. Guest Users not in any way.
+
+
+ Once Table's data is modified, it cannot be reverted to back as it is permanently modified.
+ To recover that data backup should be created.

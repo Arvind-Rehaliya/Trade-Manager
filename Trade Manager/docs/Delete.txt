@@ -1,0 +1,10 @@
+
+Delete Permission
+
+ Root user and Administrator can delete data of table.
+ If any Super User have permission to 'Delete data', then he can also do so.
+ But. Guest Users not in any way.
+
+
+ Once Table's data is deleted, it cannot be reverted to back as it is permanently deleted.
+ To recover that data backup should be created.

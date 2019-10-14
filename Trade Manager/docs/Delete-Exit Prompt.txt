@@ -1,0 +1,14 @@
+
+Delete/Exit Prompt
+
+ To prevent accidently removal of table's data or exit from application, this feature is introduced.
+
+ In which every time authorized user Delete the table's data a prompt will display to ask him/her to really want to delete as this will permanently delete data.
+
+ And every time user close this application a prompt will open having two buttons 'Yes' or 'No'. When user clicks 'Yes' he will exit otherwise not.
+
+ This feature can be 'Disabled' as --
+   --> Go to General Settings in control panel and
+   --> Search for 'Avoid delete data prompt' or 'Avoid exit prompt' and 'Enable'
+
+ Now every time user delete table's data or exit this application no any prompt will display.

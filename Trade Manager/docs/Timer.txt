@@ -1,0 +1,12 @@
+
+Timer
+
+ When this feature is 'Enabled', then every time user run this application timer also start from '0' zero.
+
+ Which specifies from how much time user is using this application.
+
+ This can be 'Disabled' as --
+   --> Go to General Settings in Control Panel after login
+   --> then, 'Enable' the Remove Timer.
+
+ Timer will be disable.

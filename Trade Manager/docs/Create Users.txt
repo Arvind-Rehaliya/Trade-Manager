@@ -1,0 +1,13 @@
+
+Create User
+
+ New user can be created through login window by clicking 'Create new Account' button. 
+ After clicking this button a new window will open enter correct details of this user then, click 'Create Account'. 
+ This user is by default a Super User with permission of 'Read and Add Data'.
+
+ To prevent unnecessary creation of users this button can be hide by --
+    --> Go to General Settings in Control Panel after login
+    --> 'Enable' 'Avoid User Creation from Login Page' option
+    then, 'Create new Account' button will be hide.
+ 
+ By default this option is 'Disabled'.

@@ -1,0 +1,18 @@
+
+Update
+
+ To stay Up-to-Date with latest update of this application this feature is introduced.
+
+ For adding new featurs, fixing bugs, code optimization, security related updates 'Enable' this feature.
+
+ If any update is released by developer, simply put this update in 'Updates' folder of your installation path as every time user run this application it check for updates in this folder only if this feature is 'Enabled'.
+
+ User can also do manually update if update is placed in any other folder by --
+    --> Drop down Menu, click on 'help' and then, 'Check for Updates'.
+    --> locate your update file and then click 'OK'.
+
+    or
+
+    --> Go to General Settings, 'Enable' Check for Updates option for automatically update if any. By default this option is 'Enabled'.
+
+ A prompt will open if application is updated otherwise an error related prompt will display if something went wrong.

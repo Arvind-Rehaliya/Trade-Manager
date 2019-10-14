@@ -1,0 +1,11 @@
+
+Security
+
+ To prevent unauthorized user to use this application this feature is introduced.
+ Only authorized user can access this application if they know password of this application set by the Root User, Administrator or Super user (if they allowed to access Control Panel).
+
+ To set security password --
+   --> Go to General Settings in Control Panel
+   --> then, 'Enable' Security and set appropriate password.
+  
+ Now every time any user run this application he have to give password to enter.

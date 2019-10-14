@@ -1,0 +1,10 @@
+
+Data Checker
+
+ Every tables have many Columns of different datatypes. Now to ensure that correct data will pass according to column's datatype this feature is available.
+
+ In which if this feature is 'Enabled', then every time user enters the wrong data to table program execution will stop to secure existing data and a dialog box is appeared which tells how to enter appropriate data to this column with examples.
+
+ Which reduces the risk of data damage.
+
+ This feature is 'Enabled' By default and cannot be 'Disabled'.

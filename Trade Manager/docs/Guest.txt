@@ -1,0 +1,21 @@
+
+Guest User
+
+ 1. Guest users are least provided permission users.
+
+ 2. They cannot access Control Panel in any way.
+
+ 3. Guest users have permission of only 'Read table's data'.
+
+ 4. If there is a need to provide them access to 'Add data' as well, then --
+      -->  Login with Root user's or Administrator's account
+      -->  Go to control Panel, then General Settings 
+      --> 'Enable' 'Guest Users Permissions' setting.
+      Then these users also 'Add data' to any table.
+
+ 5. Guest users have permission(s) --
+      -->  Read
+      -->  Read and Add data only.
+
+
+ If any user access this software without successfully login, then he/she is Guest User with least previlleges.
