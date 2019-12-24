@@ -1,4 +1,4 @@
-#Trade Manager
+# Trade Manager
 
 ### This Java project can be useful in handling those data which is in tabular format. Store that data by creating table and that data will store in MySQL database. Not only storing but provides many features, like --
 
@@ -88,8 +88,8 @@
 
 **Step 1 :** Download or Clone this project then Extract and go to Trade-Manager-master _(or something like this)_ directory And Extract **Trade Manager.zip**.  
 
-**Step 2 :** Open CMD/Terminal at that _location having tm.zip file_ and type
-` java -jar tm.zip`  
+**Step 2 :** Open CMD/Terminal at that _location having tm.zip file_ and type  
+> java -jar tm.zip  
 
 **Step 3 :** Database Configuration Prompt will appear provide all required **MySQL database** details to connect with, if everything all right then installation process should begin and tick **run this application** at the end of installation. Then ~~test~~ this application. Default 
 
