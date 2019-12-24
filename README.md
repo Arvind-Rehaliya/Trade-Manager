@@ -1,4 +1,4 @@
-#_Trade Manager_
+#Trade Manager
 
 ### This Java project can be useful in handling those data which is in tabular format. Store that data by creating table and that data will store in MySQL database. Not only storing but provides many features, like --
 
@@ -44,7 +44,6 @@
 
 **8. `User's Permission Level :`** Shows the status of existing user whether he is Administrator, Super User or Guest. These 3 category having their own permissions level.
   
-<br/>
 &nbsp;&nbsp; **8.1 Administrator :** Full permissions (Read, Add, Delete, Modify) to access data as well as Admin Panel.
 
 &nbsp;&nbsp; **8.2 Guest :** Users having permission of Read table's data only.
@@ -77,11 +76,9 @@
 
 **13. `Documentation Section :`** To understand all the features of this application and how to use them.
 
-<br/>
-> And there are Many more features besides these to explore them run this application.
+` And there are Many more features besides these to explore them run this application.`
 
-<br/>
-##HOW TO RUN THIS APPLICATION ?
+# HOW TO RUN THIS APPLICATION ?
 
 ### Required
 &nbsp;&nbsp; Java installed on any OS.
@@ -89,19 +86,16 @@
 ### Optional
 &nbsp;&nbsp; MySQL database installed.
 
-<br/>
-**Step 1 :** Download or Clone this project then Extract and go to Trade-Manager-master _(or something like this)_ directory And Extract **Trade Manager.zip**.
-
+**Step 1 :** Download or Clone this project then Extract and go to Trade-Manager-master _(or something like this)_ directory And Extract **Trade Manager.zip**.  
 
 **Step 2 :** Open CMD/Terminal at that _location having tm.zip file_ and type
-> java -jar tm.zip
+` java -jar tm.zip`  
 
-**Step 3. :** Database Configuration Prompt will appear provide all required **MySQL database** details to connect with, if everything all right then installation process should begin and tick **run this application** at the end of installation. Then ~~test~~ this application. Default 
+**Step 3 :** Database Configuration Prompt will appear provide all required **MySQL database** details to connect with, if everything all right then installation process should begin and tick **run this application** at the end of installation. Then ~~test~~ this application. Default 
 
 &nbsp;&nbsp;*username* : root  
-&nbsp;&nbsp;*password* &nbsp;: toor
+&nbsp;&nbsp;*password* &nbsp;: toor  
 
-<br/>
 NOTE: To run this application again follow **Step 2 :**
 
 Feel free to ISSUE Bugs :)
